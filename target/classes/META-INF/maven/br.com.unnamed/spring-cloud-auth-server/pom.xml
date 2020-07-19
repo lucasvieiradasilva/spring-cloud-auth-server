@@ -8,7 +8,7 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.unamed</groupId>
+	<groupId>br.com.unnamed</groupId>
 	<artifactId>spring-cloud-auth-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-cloud-auth-server</name>

@@ -1,4 +1,4 @@
-package br.com.unamed.spring_cloud_auth_server;
+package br.com.unnamed.spring_cloud_auth_server;
 
 import java.util.Optional;
 
@@ -8,8 +8,8 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-import br.com.unamed.spring_cloud_auth_server.temp.Usuario;
-import br.com.unamed.spring_cloud_auth_server.temp.UsuarioRepository;
+import br.com.unnamed.spring_cloud_auth_server.temp.Usuario;
+import br.com.unnamed.spring_cloud_auth_server.temp.UsuarioRepository;
 
 @Service
 public class AutenticacaoService implements UserDetailsService  {

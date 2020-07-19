@@ -1,4 +1,4 @@
-package br.com.unamed.spring_cloud_auth_server;
+package br.com.unnamed.spring_cloud_auth_server;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

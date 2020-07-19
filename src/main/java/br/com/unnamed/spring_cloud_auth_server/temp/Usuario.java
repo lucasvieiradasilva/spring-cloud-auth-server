@@ -1,4 +1,4 @@
-package br.com.unamed.spring_cloud_auth_server.temp;
+package br.com.unnamed.spring_cloud_auth_server.temp;
 
 import java.util.ArrayList;
 import java.util.Collection;
