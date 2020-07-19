@@ -1,2 +1,2 @@
 # spring-cloud-auth-server
-Modelo de servido de autenticação utilizando a estrutura do spring cloud
+Modelo de serviço de autenticação utilizando a estrutura do spring cloud
