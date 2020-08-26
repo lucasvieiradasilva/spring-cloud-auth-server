@@ -14,11 +14,11 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableResourceServer
 @RestController
 public class SpringCloudAuthServerApplication {
-	
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudAuthServerApplication.class, args);
 	}
-	
+
 	// TODO remover
 	@RequestMapping("/user")
 	public Principal user(Principal user) {
